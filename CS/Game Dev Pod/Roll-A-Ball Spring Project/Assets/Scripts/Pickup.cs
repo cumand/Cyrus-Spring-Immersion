@@ -4,19 +4,6 @@ using UnityEngine;
 
 public class Pickup : MonoBehaviour
 {
-    #region Relevant Concepts
-    // Local Variables
-    // transform.position
-    // LateUpdate()
-    // Time.deltaTime
-    // Trigger Collider
-    // return key word
-    // Single-line if statements
-    // GameObject vs. gameObject
-    // this keyword
-    // Parameters
-    // Destroy() function/method
-    #endregion
 
     // 1. Declare a private variable of type bool named 'isCollected' and assign it the value 'false';
     // This variable is a flag to trak whether or not this pickup has been collected by the player or not
